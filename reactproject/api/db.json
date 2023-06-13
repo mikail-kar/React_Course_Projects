@@ -1,0 +1,140 @@
+{
+  "staffs": [
+    {
+      "id": 1,
+      "departmentId": 3,
+      "staffName": "Ahmet",
+      "staffSurname": "Çarık",     
+      "image":"images/person.png"
+    },
+    {
+      "id": 2,
+      "departmentId": 1,
+      "staffName": "Müfik",
+      "staffSurname": "Kavruk", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 4,
+      "departmentId": 1,
+      "staffName": "Hamit",
+      "staffSurname": "Yavuz", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 5,
+      "departmentId": 2,
+      "staffName": "Anıl",
+      "staffSurname": "Yemiş", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 6,
+      "departmentId": 1,
+      "staffName": "Sezen",
+      "staffSurname": "Kasa", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 7,
+      "departmentId": 1,
+      "staffName": "Mert",
+      "staffSurname": "Seçkin", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 8,
+      "departmentId": 1,
+      "staffName": "Emel",
+      "staffSurname": "Mucit", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 9,
+      "departmentId": 1,
+      "staffName": "Aslı",
+      "staffSurname": "Alp", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 10,
+      "departmentId": 3,
+      "staffName": "Yiğit",
+      "staffSurname": "Kav", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 11,
+      "departmentId": 3,
+      "staffName": "Can",
+      "staffSurname": "Demir", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 12,
+      "departmentId": 3,
+      "staffName": "Doğukan",
+      "staffSurname": "Kaçmaz", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 13,
+      "departmentId": 3,
+      "staffName": "Batıkan",
+      "staffSurname": "Kamış", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 14,
+      "departmentId": 3,
+      "staffName": "Elmas",
+      "staffSurname": "Kömür", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 15,
+      "departmentId": 2,
+      "staffName": "Su",
+      "staffSurname": "Yılmaz", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 16,
+      "departmentId": 2,
+      "staffName": "Eren",
+      "staffSurname": "Çan", 
+      "image":"images/person.png"
+    },{
+      "id": 17,
+      "departmentId": 2,
+      "staffName": "Çağrı",
+      "staffSurname": "Az", 
+      "image":"images/person.png"
+    },
+    {
+      "id": 18,
+      "departmentId": 2,
+      "staffName": "Yasemin",
+      "staffSurname": "Çeyiz", 
+      "image":"images/person.png"
+    }
+   
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "departmentName": "IT"
+     
+    },
+    {
+      "id": 2,
+      "departmentName": "Leasing"
+     
+    },
+    {
+      "id": 3,
+      "departmentName": "Marketing"
+     
+    }
+  ]
+}
