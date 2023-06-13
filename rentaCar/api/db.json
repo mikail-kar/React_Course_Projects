@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Audi R8",
+      "productText": "Lorem ipsum dolor sit amet",
+      "price": 10000,
+      "image": "images/cars/audi_r8.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "BMW M3",
+      "productText": "Lorem ipsum dolor sit amet",
+      "price": 5000,
+      "image": "images/cars/bmw_m3.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Fiat 500",
+      "productText": "Lorem ipsum dolor sit amet",
+      "price": 2000,
+      "image": "images/cars/fiat_500.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Ford Focus",
+      "productText": "Lorem ipsum dolor sit amet",
+      "price": 800,
+      "image": "images/cars/ford_focus.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "productName": "Opel Astra",
+      "productText": "Lorem ipsum dolor sit amet",
+      "price": 600,
+      "image": "images/cars/opel_astra.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "productName": "Volkswagen Golf",
+      "price": 800,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/cars/volkswagen_golf.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "BMW Bike",
+      "price": 2000,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/motorbikes/bmw_bike.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "productName": "Honda Chopper",
+      "price": 1500,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/motorbikes/honda_bike.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Kawasaki Bike",
+      "price": 1700,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/motorbikes/kawasaki_bike.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "productName": "Fiat Van",
+      "price": 5000,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/vans/fiat_van.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "productName": "Volkswagen Van",
+      "price": 6000,
+      "productText": "Lorem ipsum dolor sit amet",
+      "image": "images/vans/volkswagen_van.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Cars"
+    },
+    {
+      "id": 2,
+      "categoryName": "Motorbikes"
+    },
+    {
+      "id": 3,
+      "categoryName": "Vans"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "mikail",
+      "passWord": "12345"
+    }
+  ]
+}
