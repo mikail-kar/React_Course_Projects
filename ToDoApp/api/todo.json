@@ -1,0 +1,80 @@
+{
+  "api": {
+    "board": {
+      "lists": [
+        "8kz7qmT86",
+        "Z-eFD8WGJR",
+        "g-IZvs39lk",
+        "zFHNkN3qf"
+      ]
+    },
+    "listsById": {
+      "8kz7qmT86": {
+        "_id": "8kz7qmT86",
+        "title": "TO-DO",
+        "cards": [
+          "fPI-3ABOD8",
+          "w8XpoRViGh"
+        ]
+      },
+      "g-IZvs39lk": {
+        "_id": "g-IZvs39lk",
+        "title": "DOING",
+        "cards": [
+          "V3LezugII_"
+        ]
+      },
+      "Z-eFD8WGJR": {
+        "_id": "Z-eFD8WGJR",
+        "title": "DONE",
+        "cards": [
+          "yCzJUex4d",
+          "9MtZ93byz-",
+          "mSGDcfCAv2",
+          "T8mLlWFw2k"
+        ]
+      },
+      "zFHNkN3qf": {
+        "_id": "zFHNkN3qf",
+        "title": "tataa",
+        "cards": [
+          "Gh9JD4B37"
+        ]
+      }
+    },
+    "cardsById": {
+      "fPI-3ABOD8": {
+        "text": "First card",
+        "_id": "fPI-3ABOD8"
+      },
+      "w8XpoRViGh": {
+        "text": "Second card",
+        "_id": "w8XpoRViGh"
+      },
+      "V3LezugII_": {
+        "text": "Card 1",
+        "_id": "V3LezugII_"
+      },
+      "9MtZ93byz-": {
+        "text": "Card 2",
+        "_id": "9MtZ93byz-"
+      },
+      "mSGDcfCAv2": {
+        "text": "Card 1",
+        "_id": "mSGDcfCAv2"
+      },
+      "T8mLlWFw2k": {
+        "text": "Card 2",
+        "_id": "T8mLlWFw2k"
+      },
+      "Gh9JD4B37": {
+        "text": "Hüso",
+        "_id": "Gh9JD4B37"
+      },
+      "yCzJUex4d": {
+        "text": "İso",
+        "_id": "yCzJUex4d"
+      }
+    }
+  }
+}
